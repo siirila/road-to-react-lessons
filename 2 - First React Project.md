@@ -1,0 +1,18 @@
+- Using npx and create-react-app to bootstrap a project
+- Open the created application using Visual Studio Code
+- Key files
+    - README.md
+    - .gitignore
+    - package.json
+    - package-lock.json
+    - node_modules folder
+    - Index.html
+    - Index.js
+    - App.js
+- package.json scripts
+    - start
+    - test
+    - build
+    - eject (don't run this!)
+- Link to a remote GitHub repository
+- Feedback

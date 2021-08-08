@@ -1,0 +1,7 @@
+- Object literal refresh
+- Comments in JSX
+- Using comments as a development tool
+- Array.map method
+- List of React Elements
+- Adding keys to a list of React Elements
+- Feedback

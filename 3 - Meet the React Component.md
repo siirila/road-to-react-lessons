@@ -1,0 +1,5 @@
+- Copy the simplified App component code
+- Function components
+    - Just like other functions
+- JSX syntax
+- Feedback

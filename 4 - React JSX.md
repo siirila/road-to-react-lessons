@@ -1,0 +1,6 @@
+- JSX (JavaScript XML)
+- Embedding JavaScript using {}
+- Special attribute names
+- Calling functions
+- Hot reloading
+- Feedback
