@@ -1,0 +1,10 @@
+- Introduction
+    - Jared Siirila
+- Setup
+    - Editor or IDE
+    - Terminal / Console
+    - Node and NPM
+    - Git
+    - GitHub account
+- Creating an app with npx and create-react-app
+- Feedback
